@@ -1,4 +1,4 @@
-package com.sha.springbootmicroservice4eureka;
+package com.pkc.springbootmicroservice4eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
